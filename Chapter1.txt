@@ -1,1 +1,2 @@
 This is Github Story.
+This is better Github Story.
